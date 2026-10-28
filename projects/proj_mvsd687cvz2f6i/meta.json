@@ -1,0 +1,35 @@
+{
+  "title": "PLO Ship 1: New Provider Account Setup",
+  "brief": {
+    "briefUrl": "https://springhealth.atlassian.net/wiki/spaces/Alba/pages/4533190877/PLO+Ship+1+Account+Onboarding",
+    "briefContent": "",
+    "device": "desktop"
+  },
+  "savedAt": "2026-10-28T17:04:01.032Z",
+  "directions": [
+    {
+      "name": "Linear Checklist",
+      "description": "Bet that providers move fastest when the entire onboarding pipeline is visible as a locked checklist, so they always know how far they are and what unlocks next, without any ambiguity about sequence.",
+      "device": "desktop",
+      "failed": false,
+      "error": "",
+      "screenCount": 8
+    },
+    {
+      "name": "One Step at a Time",
+      "description": "Bet that showing providers only their current step — with no visibility of future steps — reduces cognitive load and prevents providers from skipping ahead or feeling overwhelmed by the full pipeline.",
+      "device": "desktop",
+      "failed": false,
+      "error": "",
+      "screenCount": 8
+    },
+    {
+      "name": "Dashboard with Stage Transparency",
+      "description": "Bet that giving providers a persistent portal home — showing their current Provider Onboarding Stage, what the team is doing on their behalf, and their Combined Member List alongside setup — reduces anxiety and support requests by making the pipeline legible from both sides.",
+      "device": "desktop",
+      "failed": false,
+      "error": "",
+      "screenCount": 8
+    }
+  ]
+}
