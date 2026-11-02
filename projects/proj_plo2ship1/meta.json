@@ -1,0 +1,35 @@
+{
+  "title": "PLO Ship 1 v2: Provider Onboarding, Portal and Admin Console",
+  "brief": {
+    "briefUrl": "https://springhealth.atlassian.net/wiki/x/zAFiDwE",
+    "briefContent": "",
+    "device": "desktop"
+  },
+  "savedAt": "2026-11-02T00:00:00.000Z",
+  "directions": [
+    {
+      "name": "Provider onboarding",
+      "description": "Provider-facing setup: invite email, sign-in, two setup steps, then into the portal.",
+      "device": "desktop",
+      "failed": false,
+      "error": "",
+      "screenCount": 5
+    },
+    {
+      "name": "Provider Portal",
+      "description": "Signed-in provider experience: home before and after going live, and joining a video session with member info.",
+      "device": "desktop",
+      "failed": false,
+      "error": "",
+      "screenCount": 3
+    },
+    {
+      "name": "Admin Console",
+      "description": "Internal provider operations: provider list, invites, provider view, and cancellations.",
+      "device": "desktop",
+      "failed": false,
+      "error": "",
+      "screenCount": 5
+    }
+  ]
+}
