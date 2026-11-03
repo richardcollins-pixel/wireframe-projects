@@ -9,11 +9,11 @@
   "directions": [
     {
       "name": "Provider onboarding",
-      "description": "Provider-facing setup: invite email, sign-in, two setup steps, then into the portal.",
+      "description": "Provider-facing setup: invite email, sign-in, profile, then into the portal.",
       "device": "desktop",
       "failed": false,
       "error": "",
-      "screenCount": 9
+      "screenCount": 4
     },
     {
       "name": "Provider Portal",
@@ -29,7 +29,7 @@
       "device": "desktop",
       "failed": false,
       "error": "",
-      "screenCount": 12
+      "screenCount": 11
     }
   ]
 }
