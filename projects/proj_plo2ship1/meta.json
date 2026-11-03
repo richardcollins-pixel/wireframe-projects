@@ -17,11 +17,11 @@
     },
     {
       "name": "Provider Portal",
-      "description": "Signed-in provider experience: home before and after going live, and joining a video session with member info.",
+      "description": "Signed-in provider experience: upcoming appointments, availability, profile, and joining a session with member info.",
       "device": "desktop",
       "failed": false,
       "error": "",
-      "screenCount": 7
+      "screenCount": 8
     },
     {
       "name": "Admin Console",
