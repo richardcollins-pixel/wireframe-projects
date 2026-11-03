@@ -22,14 +22,6 @@
       "failed": false,
       "error": "",
       "screenCount": 8
-    },
-    {
-      "name": "Admin Console",
-      "description": "Internal provider operations: provider list, invites, provider view, and cancellations.",
-      "device": "desktop",
-      "failed": false,
-      "error": "",
-      "screenCount": 11
     }
   ]
 }
