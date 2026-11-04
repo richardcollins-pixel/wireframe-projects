@@ -1,7 +1,7 @@
 {
   "id": "dir1-screen3",
   "title": "Upcoming: empty state",
-  "description": "No appointments and no banner. Same centred format as the banner, without CTAs.",
+  "description": "Banner dismissed. Empty state only.",
   "device": "desktop",
   "name": "Upcoming: empty state",
   "failed": false,
